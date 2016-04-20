@@ -1,4 +1,4 @@
 # LCD Reactor
 
-Implementation of a Blueflare Reactor using a small 16x2 LCD display.
+Implementation of a BlueFlare Reactor using a small LED
 
