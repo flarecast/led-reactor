@@ -1,4 +1,4 @@
-# LCD Reactor
+# LED Reactor
 
-Implementation of a BlueFlare Reactor using a small LED
+Implementation of a FlareCast Reactor using a small LED
 
